@@ -1,0 +1,2 @@
+jdk=com.man4fun.game.rpc.core.proxy.jdk.JDKProxyFactory
+javassist=com.man4fun.game.rpc.core.proxy.javassist.JavassistProxyFactory

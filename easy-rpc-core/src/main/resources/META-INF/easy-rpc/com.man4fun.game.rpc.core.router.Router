@@ -1,0 +1,2 @@
+random=com.man4fun.game.rpc.core.router.RandomRouterImpl
+rotate=com.man4fun.game.rpc.core.router.RotateRouterImpl

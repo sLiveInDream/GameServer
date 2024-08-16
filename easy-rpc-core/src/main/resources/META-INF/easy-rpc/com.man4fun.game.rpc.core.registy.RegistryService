@@ -1,0 +1,1 @@
+zookeeper=com.man4fun.game.rpc.core.registy.zookeeper.ZookeeperRegister

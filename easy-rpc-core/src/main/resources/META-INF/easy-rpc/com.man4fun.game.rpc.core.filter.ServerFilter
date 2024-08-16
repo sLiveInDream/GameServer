@@ -1,0 +1,4 @@
+serverLogFilterImpl=com.man4fun.game.rpc.core.filter.server.ServerLogFilterImpl
+serverTokenFilterImpl=com.man4fun.game.rpc.core.filter.server.ServerTokenFilterImpl
+serverServiceBeforeLimitFilterImpl=com.man4fun.game.rpc.core.filter.server.ServerServiceBeforeLimitFilterImpl
+serverServiceAfterLimitFilterImpl=com.man4fun.game.rpc.core.filter.server.ServerServiceAfterLimitFilterImpl

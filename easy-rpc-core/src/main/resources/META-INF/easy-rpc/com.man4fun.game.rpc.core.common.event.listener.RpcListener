@@ -1,0 +1,3 @@
+providerNodeUpdateListener=com.man4fun.game.rpc.core.common.event.listener.ProviderNodeUpdateListener
+serviceDestroyListener=com.man4fun.game.rpc.core.common.event.listener.ServiceDestroyListener
+serviceUpdateListener=com.man4fun.game.rpc.core.common.event.listener.ServiceUpdateListener
